@@ -1,0 +1,6 @@
+count_a,count_b,count_c,count_d,ROR,ROR_CI_Lower,ROR_CI_Upper,PRR,Chi2,p_value,signal_detected,Concomitant_Drug
+15,68,16,189,2.606,1.222,5.555,2.316,5.459,0.01947,True,Entresto / Sacubitril
+6,42,25,215,1.229,0.475,3.178,1.2,0.029,0.86497,False,Furosemide
+5,43,26,214,0.957,0.348,2.632,0.962,0.0,1.0,False,Spironolactone
+5,39,26,218,1.075,0.389,2.969,1.066,0.0,1.0,False,Bisoprolol
+5,38,26,219,1.108,0.401,3.065,1.096,0.0,1.0,False,Jardiance / Empagliflozin
